@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hari
-- 👀 🚀 Aspiring AI Enthusiast | Data science | my skills to drive innovation and solve complex challenges 💥...
-- 🌱 I’m currently learning B.tech Artificial intelligence and data science...
+- 👋 Hey, I’m Hari
+- 🚀 Aspiring AI Enthusiast | Data science | Freelancing and Empowering Through Busisness
+- 🌱 DISCIPLINE / PATIENCE / FEARLESS
   
