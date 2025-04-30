@@ -1,7 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I'm Hari Krishnan<br><br>🎓 Artificial intelligence and Data Science Student | Aspiring DevOps & Cloud Engineer 🚀 Learning DevOps Tools: Docker, Kubernetes, Jenkins, GitHub Actions  <br>☁️ Exploring AWS Cloud, CI/CD Pipelines, Terraform, Ansible  <br>💡 I love building real-world projects, automating workflows, and learning in public.  <br>📚 Currently learning from Coursera, edX, and YouTube (Tamil tutorials 🤝)<br><br>🛠️ **Tech Stack:**  <br>- Languages: Python, Bash  <br>- Tools: Git, GitHub, Docker, Jenkins, Kubernetes, Terraform  <br>- Cloud: AWS (EC2, S3, IAM), GitHub Actions  <br>- OS: Linux (Ubuntu/Fedora), Windows<br><br>📈 **Certifications:**   <br>- Python for Everybody (University of Michigan)  <br>- AWS Fundamentals (AWS)  <br>- Git & GitHub (Google)  <br>- DevOps on AWS (AWS)  <br>- Kubernetes (Linux Foundation)<br>
-
-
+### 👋 Hi, I'm Hari Krishnan<br><br>🎓 Aspiring to AI engineer through innovative collaboration in a dynamic growth-oriented environment. Maintains a solid foundation and stays updated on the latest AI advancements. Proven ability to deliver end-to-end solutions through hands-on projects and collaborative problem-solving. Currently expanding skills in DevOps and cloud computing. Eager to contribute and grow through real-world Problems.. <br> 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ynot.hari) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-krishnan-r-16686729b) 
