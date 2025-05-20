@@ -16,21 +16,20 @@
 
 <!-- Introduction -->
 <p align="left">
-I love build scalable solutions, automate workflows, and explore cloud-native architecture.
-</p>
+I’m passionate about designing scalable solutions, automating workflows, and diving deep into cloud-native architectures. Constantly driven to learn and innovate, I thrive in building reliable infrastructure and contributing to open-source projects.
 
-- 🚀 DevOps | AWS | AI 
-- 🌱 Currently learning Kubernetes and Cloud Architecture  
-- 🛠 Automating Infrastructure using Terraform and Ansible  
-- 🔗 Always contributing to open source and collaborative projects  
-- 💼 Portfolio: [https://github.com/Ynothari](https://github.com/Ynothari)  
-- 📬 Email: [awmhari007@gmail.com](mailto:awmhari007@gmail.com)
+- 🚀 Specializing in **DevOps**, **AWS**, and **Artificial Intelligence**  
+- 🌱 Currently advancing my skills in **Kubernetes** and **Cloud Architecture**  
+- 🛠 Expert in automating infrastructure using **Terraform** and **Ansible**  
+- 🔗 Active contributor to open-source communities and collaborative projects  
+- 💼 Explore my work on [GitHub](https://github.com/Ynothari)  
+- 📬 Reach me at [awmhari007@gmail.com](mailto:awmhari007@gmail.com)  
 
 ---
 
 <!-- Skills and Blogs Section -->
-<h2 align="center">💼 Technical Stack & Blog Highlights</h2>
-<p align="center">
+<h2>💼 Technical Stack Highlights</h2>
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif">
@@ -41,22 +40,22 @@ I love build scalable solutions, automate workflows, and explore cloud-native ar
 ---
 
 <!-- Technical Skills -->
+
 ### 🛠️ Core Competencies
 
-**Languages:**  
-Python  
+⚙️ &nbsp;**DevOps & Automation**  
+&nbsp;&nbsp;&nbsp;&nbsp;🐙 Git & GitHub  
+&nbsp;&nbsp;&nbsp;&nbsp;🐳 Docker  
+&nbsp;&nbsp;&nbsp;&nbsp;🧪 Jenkins  
+&nbsp;&nbsp;&nbsp;&nbsp;🦊 GitLab CI/CD  
+&nbsp;&nbsp;&nbsp;&nbsp;📦 Kubernetes  
+&nbsp;&nbsp;&nbsp;&nbsp;📜 Ansible  
+&nbsp;&nbsp;&nbsp;&nbsp;🌍 Terraform  
 
-**DevOps Tools:**  
-Git, GitHub, Docker, Jenkins, GitLab CI/CD, Kubernetes, Ansible, Terraform  
+☁️ &nbsp;**Cloud Platforms**  
+&nbsp;&nbsp;&nbsp;&nbsp;☁️ Amazon Web Services (EC2, S3, IAM, CloudWatch, EKS)  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Google Cloud Platform (GCP)  
 
-**Cloud Platforms:**  
-AWS (EC2, S3, IAM, CloudWatch, EKS), Google Cloud Platform (GCP)  
-
-**Operating Systems:**  
-Linux, Windows  
-
-**Tools & IDEs:**  
-VS Code, Jupyter Notebook, Google Colab  
 
 ---
 
@@ -102,4 +101,4 @@ VS Code, Jupyter Notebook, Google Colab
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p> make it better github readme , update it and give the full code in markdown style
+</p> 
