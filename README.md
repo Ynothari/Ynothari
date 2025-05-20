@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.github.com/Ynothari/Ynothari/main/banner.png" alt="Banner Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Night Owl Image -->
@@ -39,23 +39,26 @@ I’m passionate about designing scalable solutions, automating workflows, and d
 
 ---
 
-<!-- Technical Skills -->
-
 ### 🛠️ Core Competencies
 
-⚙️ &nbsp;**DevOps & Automation**  
-&nbsp;&nbsp;&nbsp;&nbsp;🐙 Git & GitHub  
-&nbsp;&nbsp;&nbsp;&nbsp;🐳 Docker  
-&nbsp;&nbsp;&nbsp;&nbsp;🧪 Jenkins  
-&nbsp;&nbsp;&nbsp;&nbsp;🦊 GitLab CI/CD  
-&nbsp;&nbsp;&nbsp;&nbsp;📦 Kubernetes  
-&nbsp;&nbsp;&nbsp;&nbsp;📜 Ansible  
-&nbsp;&nbsp;&nbsp;&nbsp;🌍 Terraform  
+#### ⚙️ DevOps & CI/CD  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
 
-☁️ &nbsp;**Cloud Platforms**  
-&nbsp;&nbsp;&nbsp;&nbsp;☁️ Amazon Web Services (EC2, S3, IAM, CloudWatch, EKS)  
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 Google Cloud Platform (GCP)  
+#### 📦 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
+#### ☁️ Cloud Platforms  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+
+#### 🧰 Tools & IDEs  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -71,16 +74,16 @@ I’m passionate about designing scalable solutions, automating workflows, and d
 
 ---
 
-<!-- Contribution Graph -->
+<!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynothari&bg_color=0d1117&color=ffffff&line=00e676&point=ffd700&area=true&hide_border=false">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynothari&theme=react-dark&bg_color=0d1117&color=b087f5&line=c084f5&point=e0b3ff&area=true&hide_border=false" alt="GitHub Activity Graph">
 </p>
 
 ---
 
 <!-- Contact Section -->
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center"> 🤝 Connect With Me 🤝</h2>
 <p align="center">
   <a href="mailto:awmhari007@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
