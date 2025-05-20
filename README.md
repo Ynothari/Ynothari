@@ -18,9 +18,7 @@
 <p align="left">
 I’m passionate about designing scalable solutions, automating workflows, and diving deep into cloud-native architectures. Constantly driven to learn and innovate, I thrive in building reliable infrastructure and contributing to open-source projects.
 
-- 🚀 Specializing in **DevOps**, **AWS**, and **Artificial Intelligence**  
-- 🌱 Currently advancing my skills in **Kubernetes** and **Cloud Architecture**  
-- 🛠 Expert in automating infrastructure using **Terraform** and **Ansible**  
+- 🚀 Currently advancing my skills in **DevOps** and **Cloud Architecture**    
 - 🔗 Active contributor to open-source communities and collaborative projects  
 - 💼 Explore my work on [GitHub](https://github.com/Ynothari)  
 - 📬 Reach me at [awmhari007@gmail.com](mailto:awmhari007@gmail.com)  
