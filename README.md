@@ -60,7 +60,6 @@ I’m passionate about designing scalable solutions, automating workflows, and d
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 
----
 
 <!-- Trophies Section -->
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -80,7 +79,6 @@ I’m passionate about designing scalable solutions, automating workflows, and d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynothari&theme=react-dark&bg_color=0d1117&color=b087f5&line=c084f5&point=e0b3ff&area=true&hide_border=false" alt="GitHub Activity Graph">
 </p>
 
----
 
 <!-- Contact Section -->
 <h2 align="center"> 🤝 Connect With Me 🤝</h2>
@@ -99,7 +97,6 @@ I’m passionate about designing scalable solutions, automating workflows, and d
   </a>
 </p>
 
----
 
 <!-- Footer -->
 <p align="center">
