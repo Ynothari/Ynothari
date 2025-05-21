@@ -83,7 +83,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynothari&theme=react-dark&bg_color=0d1117&color=b087f5&line=c084f5&point=e0b3ff&area=true&hide_border=false" alt="Contribution Graph" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynothari&theme=react-dark&bg_color=0d1117&color=bd93f9&line=ff79c6&point=ffb3fe&area=true&hide_border=false" alt="Contribution Graph" width="95%">
 </p>
 
 
@@ -106,22 +106,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Building+and+Innovating!;Let's+connect+and+collaborate." alt="Typing SVG" />
 </p>
 
-<!-- ☕ Buy Me a Coffee CTA -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ynothari" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
-  </a>
-</p>
-
 <!-- 💬 Quote -->
 <blockquote align="center">
   <i>"Stay curious. Keep building. Break boundaries."</i><br/>
   <b>— Hari Krishnan</b>
 </blockquote>
 
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer&" alt="Footer Banner"/>
 </p>
+
 
 
 
