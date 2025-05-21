@@ -12,7 +12,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I’m Hari Krishnan  
 *AI Enthusiastic | DevOps & Cloud Explorer*
 
-
+---
 <!-- Introduction -->
 <p align="left">
 I’m passionate about designing scalable solutions, automating workflows, and diving deep into cloud-native architectures. Constantly driven to learn and innovate, I thrive in building reliable infrastructure and contributing to open-source projects.
@@ -23,27 +23,8 @@ I’m passionate about designing scalable solutions, automating workflows, and d
 - 📬 Reach me at [awmhari007@gmail.com](mailto:awmhari007@gmail.com)  
 
 ---
-
-## 🛠️ Technical Skills
-
-### ⚙️ DevOps & CI/CD  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" />
-
-### 📦 Containers & Orchestration  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-
-
-### ☁️ Cloud Platforms  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" />
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif">
-    <img alt="Skills GIF" src="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif">
-  </picture>
-</p>
+## Technical Skills
+<div align="center"> <table style="width:90%; table-layout: fixed;" cellspacing="10"> <thead> <tr> <th align="center"><h3>⚙️ DevOps & CI/CD</h3></th> <th align="center"><h3>📦 Containers & Orchestration</h3></th> <th align="center"><h3>☁️ Cloud Platforms</h3></th> </tr> </thead> <tbody> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" alt="Jenkins" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab" style="margin: 10px;" /> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes" style="margin: 10px;" /> </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP" style="margin: 10px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" alt="AWS" style="margin: 10px;" /> </td> </tr> </tbody> </table> </div> <br/> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_Dark.gif"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif"> <img alt="Skills GIF" src="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif" width="50%"> </picture> </p>
 
 ---
 
