@@ -33,25 +33,38 @@
 <table align="center" width="100%">
   <thead>
     <tr>
+      <th align="center"><h3>🤖 Automation</h3></th>
+      <th align="center"><h3>🧠 AI & LLMs</h3></th>
       <th align="center"><h3>⚙️ DevOps & CI/CD</h3></th>
-      <th align="center"><h3>📦 Containers & Orchestration</h3></th>
-      <th align="center"><h3>☁️ Cloud Platforms</h3></th>
+      <th align="center"><h3>☁️ Cloud & Orchestration</h3></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
+        <img title="n8n" src="https://n8n.io/favicon-32x32.png" width="40" style="margin:10px"/>
+        <img title="Zapier" src="https://cdn.worldvectorlogo.com/logos/zapier.svg" width="40" style="margin:10px"/>
+        <img title="Make.com" src="https://www.make.com/favicon.ico" width="40" style="margin:10px"/>
+        <img title="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" style="margin:10px"/>
+      </td>
+      <td align="center">
+        <img title="LangChain" src="https://avatars.githubusercontent.com/u/107672220?s=200&v=4" width="40" style="margin:10px"/>
+        <img title="OpenAI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin:10px"/>
+        <img title="NLP" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" style="margin:10px"/>
+        <img title="Generative AI" src="https://cdn-icons-png.flaticon.com/512/4476/4476760.png" width="40" style="margin:10px"/>
+      </td>
+      <td align="center">
         <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:10px"/>
+        <img title="GitLab CI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" style="margin:10px"/>
         <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" style="margin:10px"/>
-        <img title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" style="margin:10px"/>
+        <img title="GitHub Actions" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" style="margin:10px"/>
       </td>
       <td align="center">
         <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="margin:10px"/>
         <img title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" style="margin:10px"/>
-      </td>
-      <td align="center">
-        <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" style="margin:10px"/>
         <img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" style="margin:10px"/>
+        <img title="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" style="margin:10px"/>
+        <img title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" style="margin:10px"/>
       </td>
     </tr>
   </tbody>
@@ -65,6 +78,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif">
     <img alt="Skills Animation" src="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif" width="40%">
+  </picture>
+</p>
+
+<!-- Skills Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif"    <img alt="Skills Animation" src="https://raw.githubusercontent.com/Ynothari/Ynothari/main/Skills_Animation_White.gif" width="40%">
   </picture>
 </p>
 
