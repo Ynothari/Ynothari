@@ -102,12 +102,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynothari&theme=react-dark&bg_color=0d1117&color=bd93f9&line=ff79c6&point=ffb3fe&area=true&hide_border=false" alt="Contribution Graph" width="95%">
-</p>
-
-
 <!-- 🎊 Celebration Animation (Balloons/Confetti) -->
 <p align="center">
   <img src="https://i.gifer.com/origin/f8/f8982e093f8cc36e37a8cb7b127f68c9.gif" width="300" alt="Celebration Balloons">
