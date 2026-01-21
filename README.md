@@ -91,17 +91,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ynothari&no-bg=true&theme=monokai&row=2&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ynothari&no-bg=true&row=2&column=6">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Ynothari&no-bg=true&row=2&column=6">
-  </picture>
-</p>
-
----
-
 <!-- 🎊 Celebration Animation (Balloons/Confetti) -->
 <p align="center">
   <img src="https://i.gifer.com/origin/f8/f8982e093f8cc36e37a8cb7b127f68c9.gif" width="300" alt="Celebration Balloons">
